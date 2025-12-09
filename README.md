@@ -1,4 +1,4 @@
-![inkscape-logo](https://github.com/user-attachments/assets/ccd99991-3a54-44c6-874e-d12034edad22)<h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Andrew Kasten</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Andrew Kasten</h1>
 
 
 - 🔭 I’m currently a Full-stack Software Engineering student at <img height="50" src="https://www.codeplatoon.org/hs-fs/hubfs/Logos/CP%20Logos/Primary%20Logo%20White%20PNG.png?width=200&height=70&name=Primary%20Logo%20White%20PNG.png"/> 
